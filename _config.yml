@@ -17,10 +17,10 @@ resume_title:                   "PhD Candidate"
 resume_contact_email:           "ahmed.akakzia@isir.upmc.fr"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
-resume_contact_telephone:       "555-7334"
-resume_contact_address:         "742 Evergreen Terrace, Springfield"
+resume_contact_telephone:       "0033-621-296-778"
+resume_contact_address:         "38 Impasse Octave Mirbeau, Villejuif"
 
-resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com"
+resume_header_contact_info:     "38 Impasse Octave Mirbeau, Villejuif • 0033-621-296-778 • ahmed.akakzia@isir.upmc.fr"
 display_header_contact_info:    "false"
 
 resume_header_intro: "<p>This is the executive summary. You should write a few brief, concise, and meaningful sentences about yourself from a professional context, and your immediate career goals. Make the length appropriate for your needs, but keep it brief and concise</p>"
